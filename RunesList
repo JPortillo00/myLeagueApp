@@ -1,0 +1,1482 @@
+[
+  {
+    "name": "Lesser Mark of Cooldown Reduction",
+    "description": "-0.11% cooldowns",
+    "id": 5021
+  },
+  {
+    "name": "Mark of Cooldown Reduction",
+    "description": "-0.16% cooldowns",
+    "id": 5143
+  },
+  {
+    "name": "Lesser Mark of Ability Power",
+    "description": "+0.33 ability power",
+    "id": 5023
+  },
+  {
+    "name": "Greater Mark of Cooldown Reduction",
+    "description": "-0.2% cooldowns",
+    "id": 5265
+  },
+  {
+    "name": "Lesser Mark of Scaling Ability Power",
+    "description": "+0.06 ability power per level (+1.08 at champion level 18)",
+    "id": 5024
+  },
+  {
+    "name": "Mark of Ability Power",
+    "description": "+0.46 ability power",
+    "id": 5145
+  },
+  {
+    "name": "Lesser Mark of Mana",
+    "description": "+3.28 mana",
+    "id": 5025
+  },
+  {
+    "name": "Mark of Scaling Ability Power",
+    "description": "+0.08 ability power per level (+1.44 at champion level 18)",
+    "id": 5146
+  },
+  {
+    "name": "Greater Mark of Ability Power",
+    "description": "+0.59 ability power",
+    "id": 5267
+  },
+  {
+    "name": "Lesser Mark of Scaling Mana",
+    "description": "+0.65 mana per level (+11.7 at champion level 18)",
+    "id": 5026
+  },
+  {
+    "name": "Mark of Mana",
+    "description": "+4.59 mana",
+    "id": 5147
+  },
+  {
+    "name": "Greater Mark of Scaling Ability Power",
+    "description": "+0.1 ability power per level (+1.8 at champion level 18)",
+    "id": 5268
+  },
+  {
+    "name": "Greater Mark of Scaling Magic Resist",
+    "description": "+0.07 magic resist per level (+1.26 at champion level 18)",
+    "id": 5260
+  },
+  {
+    "name": "Lesser Mark of Scaling Magic Resist",
+    "description": "+0.04 magic resist per level (+0.72 at champion level 18)",
+    "id": 5016
+  },
+  {
+    "name": "Mark of Magic Resist",
+    "description": "+0.6 magic resist",
+    "id": 5137
+  },
+  {
+    "name": "Mark of Scaling Magic Resist",
+    "description": "+0.06 magic resist per level (+1.08 at champion level 18)",
+    "id": 5138
+  },
+  {
+    "name": "Greater Mark of Magic Resist",
+    "description": "+0.77 magic resist",
+    "id": 5259
+  },
+  {
+    "name": "Mark of Magic Penetration",
+    "description": "+0.68 magic penetration",
+    "id": 5151
+  },
+  {
+    "name": "Lesser Glyph of Attack Damage",
+    "description": "+0.16 attack damage",
+    "id": 5031
+  },
+  {
+    "name": "Greater Mark of Magic Penetration",
+    "description": "+0.87 magic penetration",
+    "id": 5273
+  },
+  {
+    "name": "Lesser Glyph of Scaling Attack Damage",
+    "description": "+0.02 attack damage per level (+0.36 at champion level 18)",
+    "id": 5032
+  },
+  {
+    "name": "Glyph of Attack Damage",
+    "description": "+0.22 attack damage",
+    "id": 5153
+  },
+  {
+    "name": "Lesser Glyph of Attack Speed",
+    "description": "+0.35% attack speed",
+    "id": 5033
+  },
+  {
+    "name": "Glyph of Scaling Attack Damage",
+    "description": "+0.03 attack damage per level (+0.57 at champion level 18)",
+    "id": 5154
+  },
+  {
+    "name": "Greater Glyph of Attack Damage",
+    "description": "+0.28 attack damage",
+    "id": 5275
+  },
+  {
+    "name": "Glyph of Attack Speed",
+    "description": "+0.5% attack speed",
+    "id": 5155
+  },
+  {
+    "name": "Greater Glyph of Scaling Attack Damage",
+    "description": "+0.04 attack damage per level (+0.73 at champion level 18)",
+    "id": 5276
+  },
+  {
+    "name": "Lesser Glyph of Critical Damage",
+    "description": "+0.31% critical damage",
+    "id": 5035
+  },
+  {
+    "name": "Greater Glyph of Attack Speed",
+    "description": "+0.64% attack speed",
+    "id": 5277
+  },
+  {
+    "name": "Glyph of Critical Damage",
+    "description": "+0.43% critical damage",
+    "id": 5157
+  },
+  {
+    "name": "Lesser Glyph of Critical Chance",
+    "description": "+0.15% critical chance",
+    "id": 5037
+  },
+  {
+    "name": "Greater Glyph of Critical Damage",
+    "description": "+0.56% critical damage",
+    "id": 5279
+  },
+  {
+    "name": "Greater Mark of Scaling Mana",
+    "description": "+1.17 mana per level (+21.06 at champion level 18)",
+    "id": 5270
+  },
+  {
+    "name": "Greater Mark of Mana Regeneration",
+    "description": "+0.26 mana regen / 5 sec.",
+    "id": 5271
+  },
+  {
+    "name": "Lesser Mark of Mana Regeneration",
+    "description": "+0.15 mana regen / 5 sec.",
+    "id": 5027
+  },
+  {
+    "name": "Mark of Scaling Mana",
+    "description": "+0.91 mana per level (+16.38 at champion level 18)",
+    "id": 5148
+  },
+  {
+    "name": "Greater Mark of Mana",
+    "description": "+5.91 mana",
+    "id": 5269
+  },
+  {
+    "name": "Mark of Mana Regeneration",
+    "description": "+0.2 mana regen / 5 sec.",
+    "id": 5149
+  },
+  {
+    "name": "Lesser Mark of Magic Penetration",
+    "description": "+0.49 magic penetration",
+    "id": 5029
+  },
+  {
+    "name": "Lesser Glyph of Health",
+    "description": "+1.49 health",
+    "id": 5041
+  },
+  {
+    "name": "Lesser Glyph of Scaling Health",
+    "description": "+0.3 health per level (+5.4 at champion level 18)",
+    "id": 5042
+  },
+  {
+    "name": "Glyph of Health",
+    "description": "+2.08 health",
+    "id": 5163
+  },
+  {
+    "name": "Lesser Glyph of Armor",
+    "description": "+0.39 armor",
+    "id": 5043
+  },
+  {
+    "name": "Glyph of Scaling Health",
+    "description": "+0.42 health per level (+7.56 at champion level 18)",
+    "id": 5164
+  },
+  {
+    "name": "Greater Glyph of Health",
+    "description": "+2.67 health",
+    "id": 5285
+  },
+  {
+    "name": "Glyph of Armor",
+    "description": "+0.55 armor",
+    "id": 5165
+  },
+  {
+    "name": "Greater Glyph of Scaling Health",
+    "description": "+0.54 health per level (+9.72 at champion level 18)",
+    "id": 5286
+  },
+  {
+    "name": "Lesser Glyph of Magic Resist",
+    "description": "+0.74 magic resist",
+    "id": 5045
+  },
+  {
+    "name": "Greater Glyph of Armor",
+    "description": "+0.7 armor",
+    "id": 5287
+  },
+  {
+    "name": "Lesser Glyph of Scaling Magic Resist",
+    "description": "+0.09 magic resist per level (+1.68 at champion level 18)",
+    "id": 5046
+  },
+  {
+    "name": "Glyph of Magic Resist",
+    "description": "+1.04 magic resist",
+    "id": 5167
+  },
+  {
+    "name": "Lesser Glyph of Health Regeneration",
+    "description": "+0.15 health regen / 5 sec.",
+    "id": 5047
+  },
+  {
+    "name": "Glyph of Scaling Magic Resist",
+    "description": "+0.13 magic resist per level (+2.34 at champion level 18)",
+    "id": 5168
+  },
+  {
+    "name": "Greater Glyph of Magic Resist",
+    "description": "+1.34 magic resist",
+    "id": 5289
+  },
+  {
+    "name": "Glyph of Health Regeneration",
+    "description": "+0.21 health regen / 5 sec.",
+    "id": 5169
+  },
+  {
+    "name": "Greater Glyph of Critical Chance",
+    "description": "+0.28% critical chance",
+    "id": 5281
+  },
+  {
+    "name": "Glyph of Critical Chance",
+    "description": "+0.22% critical chance",
+    "id": 5159
+  },
+  {
+    "name": "Lesser Glyph of Scaling Cooldown Reduction",
+    "description": "-0.05% cooldowns per level (-0.93% at champion level 18)",
+    "id": 5052
+  },
+  {
+    "name": "Glyph of Cooldown Reduction",
+    "description": "-0.67% cooldowns",
+    "id": 5173
+  },
+  {
+    "name": "Lesser Glyph of Ability Power",
+    "description": "+0.66 ability power",
+    "id": 5053
+  },
+  {
+    "name": "Glyph of Scaling Cooldown Reduction",
+    "description": "-0.07% cooldowns per level (-1.3% at champion level 18)",
+    "id": 5174
+  },
+  {
+    "name": "Greater Glyph of Cooldown Reduction",
+    "description": "-0.83% cooldowns",
+    "id": 5295
+  },
+  {
+    "name": "Lesser Glyph of Scaling Ability Power",
+    "description": "+0.1 ability power per level (+1.8 at champion level 18)",
+    "id": 5054
+  },
+  {
+    "name": "Glyph of Ability Power",
+    "description": "+0.92 ability power",
+    "id": 5175
+  },
+  {
+    "name": "Greater Glyph of Scaling Cooldown Reduction",
+    "description": "-0.09% cooldowns per level (-1.67% at champion level 18)",
+    "id": 5296
+  },
+  {
+    "name": "Lesser Glyph of Mana",
+    "description": "+6.25 mana",
+    "id": 5055
+  },
+  {
+    "name": "Glyph of Scaling Ability Power",
+    "description": "+0.13 ability power per level (+2.34 at champion level 18)",
+    "id": 5176
+  },
+  {
+    "name": "Greater Glyph of Ability Power",
+    "description": "+1.19 ability power",
+    "id": 5297
+  },
+  {
+    "name": "Lesser Glyph of Scaling Mana",
+    "description": "+0.79 mana per level (+14.22 at champion level 18)",
+    "id": 5056
+  },
+  {
+    "name": "Glyph of Mana",
+    "description": "+8.75 mana",
+    "id": 5177
+  },
+  {
+    "name": "Greater Glyph of Scaling Ability Power",
+    "description": "+0.17 ability power per level (+3.06 at champion level 18)",
+    "id": 5298
+  },
+  {
+    "name": "Lesser Glyph of Mana Regeneration",
+    "description": "+0.19 mana regen / 5 sec.",
+    "id": 5057
+  },
+  {
+    "name": "Glyph of Scaling Mana",
+    "description": "+1.1 mana per level (+19.8 at champion level 18)",
+    "id": 5178
+  },
+  {
+    "name": "Greater Glyph of Mana",
+    "description": "+11.25 mana",
+    "id": 5299
+  },
+  {
+    "name": "Lesser Glyph of Scaling Mana Regeneration",
+    "description": "+0.04 mana regen / 5 sec. per level (+0.67 at champion level 18)",
+    "id": 5058
+  },
+  {
+    "name": "Glyph of Mana Regeneration",
+    "description": "+0.26 mana regen / 5 sec.",
+    "id": 5179
+  },
+  {
+    "name": "Lesser Glyph of Magic Penetration",
+    "description": "+0.35 magic penetration",
+    "id": 5059
+  },
+  {
+    "name": "Greater Glyph of Scaling Magic Resist",
+    "description": "+0.16 magic resist per level (+3 at champion level 18)",
+    "id": 5290
+  },
+  {
+    "name": "Greater Glyph of Health Regeneration",
+    "description": "+0.27 health regen / 5 sec.",
+    "id": 5291
+  },
+  {
+    "name": "Lesser Glyph of Cooldown Reduction",
+    "description": "-0.47% cooldowns",
+    "id": 5051
+  },
+  {
+    "name": "Lesser Seal of Attack Speed",
+    "description": "+0.42% attack speed",
+    "id": 5063
+  },
+  {
+    "name": "Seal of Scaling Attack Damage",
+    "description": "+0.05 attack damage per level (+0.85 at champion level 18)",
+    "id": 5184
+  },
+  {
+    "name": "Seal of Attack Speed",
+    "description": "+0.59% attack speed",
+    "id": 5185
+  },
+  {
+    "name": "Lesser Seal of Critical Damage",
+    "description": "+0.43% critical damage",
+    "id": 5065
+  },
+  {
+    "name": "Seal of Critical Damage",
+    "description": "+0.61% critical damage",
+    "id": 5187
+  },
+  {
+    "name": "Lesser Seal of Critical Chance",
+    "description": "+0.23% critical chance",
+    "id": 5067
+  },
+  {
+    "name": "Seal of Critical Chance",
+    "description": "+0.32% critical chance",
+    "id": 5189
+  },
+  {
+    "name": "Glyph of Scaling Mana Regeneration",
+    "description": "+0.05 mana regen / 5 sec. per level (+0.94 at champion level 18)",
+    "id": 5180
+  },
+  {
+    "name": "Glyph of Magic Penetration",
+    "description": "+0.49 magic penetration",
+    "id": 5181
+  },
+  {
+    "name": "Lesser Seal of Attack Damage",
+    "description": "+0.24 attack damage",
+    "id": 5061
+  },
+  {
+    "name": "Lesser Seal of Scaling Attack Damage",
+    "description": "+0.03 attack damage per level (+0.61 at champion level 18)",
+    "id": 5062
+  },
+  {
+    "name": "Seal of Attack Damage",
+    "description": "+0.33 attack damage",
+    "id": 5183
+  },
+  {
+    "name": "Lesser Seal of Scaling Armor",
+    "description": "+0.09 armor per level (+1.68 at champion level 18)",
+    "id": 5074
+  },
+  {
+    "name": "Seal of Armor",
+    "description": "+0.78 armor",
+    "id": 5195
+  },
+  {
+    "name": "Lesser Seal of Magic Resist",
+    "description": "+0.41 magic resist",
+    "id": 5075
+  },
+  {
+    "name": "Seal of Scaling Armor",
+    "description": "+0.13 armor per level (+2.34 at champion level 18)",
+    "id": 5196
+  },
+  {
+    "name": "Lesser Seal of Scaling Magic Resist",
+    "description": "+0.05 magic resist per level (+0.9 at champion level 18)",
+    "id": 5076
+  },
+  {
+    "name": "Seal of Magic Resist",
+    "description": "+0.58 magic resist",
+    "id": 5197
+  },
+  {
+    "name": "Lesser Seal of Health Regeneration",
+    "description": "+0.31 health regen / 5 sec.",
+    "id": 5077
+  },
+  {
+    "name": "Seal of Scaling Magic Resist",
+    "description": "+0.08 magic resist per level (+1.44 at champion level 18)",
+    "id": 5198
+  },
+  {
+    "name": "Lesser Seal of Scaling Health Regeneration",
+    "description": "+0.06 health regen / 5 sec. per level (+1.08 at champion level 18)",
+    "id": 5078
+  },
+  {
+    "name": "Seal of Health Regeneration",
+    "description": "+0.43 health regen / 5 sec.",
+    "id": 5199
+  },
+  {
+    "name": "Lesser Seal of Health",
+    "description": "+4.48 health",
+    "id": 5071
+  },
+  {
+    "name": "Lesser Seal of Scaling Health",
+    "description": "+0.75 health per level (+13.44 at champion level 18)",
+    "id": 5072
+  },
+  {
+    "name": "Seal of Health",
+    "description": "+6.24 health",
+    "id": 5193
+  },
+  {
+    "name": "Lesser Seal of Armor",
+    "description": "+0.56 armor",
+    "id": 5073
+  },
+  {
+    "name": "Seal of Scaling Health",
+    "description": "+1.04 health per level (+18.72 at champion level 18)",
+    "id": 5194
+  },
+  {
+    "name": "Lesser Seal of Mana",
+    "description": "+3.83 mana",
+    "id": 5085
+  },
+  {
+    "name": "Lesser Seal of Scaling Mana",
+    "description": "+0.65 mana per level (+11.7 at champion level 18)",
+    "id": 5086
+  },
+  {
+    "name": "Lesser Seal of Mana Regeneration",
+    "description": "+0.23 mana regen / 5 sec.",
+    "id": 5087
+  },
+  {
+    "name": "Lesser Seal of Scaling Mana Regeneration",
+    "description": "+0.036 mana regen / 5 sec. per level (+0.65 at champion level 18)",
+    "id": 5088
+  },
+  {
+    "name": "Lesser Mark of Precision",
+    "description": "+0.63 Lethality / +0.34 Magic Penetration",
+    "id": 5400
+  },
+  {
+    "name": "Lesser Seal of Cooldown Reduction",
+    "description": "-0.2% cooldowns",
+    "id": 5081
+  },
+  {
+    "name": "Lesser Seal of Ability Power",
+    "description": "+0.33 ability power",
+    "id": 5083
+  },
+  {
+    "name": "Lesser Seal of Scaling Ability Power",
+    "description": "+0.06 ability power per level (+1.08 at champion level 18)",
+    "id": 5084
+  },
+  {
+    "name": "Lesser Mark of the Yuletide Tannenbaum ",
+    "description": "+0.62% critical chance",
+    "id": 8002
+  },
+  {
+    "name": "Lesser Quintessence of Critical Chance",
+    "description": "+1.03% critical chance",
+    "id": 5097
+  },
+  {
+    "name": "Glyph of the Special Stocking",
+    "description": "-0.75% cooldowns",
+    "id": 8003
+  },
+  {
+    "name": "Lesser Quintessence of Lethality",
+    "description": "+1.78 lethality",
+    "id": 5099
+  },
+  {
+    "name": "Mark of the Crippling Candy Cane",
+    "description": "+2% critical damage",
+    "id": 8001
+  },
+  {
+    "name": "Lesser Seal of the Stout Snowman",
+    "description": "+0.72 health per level (+12.96 at champion level 18)",
+    "id": 8006
+  },
+  {
+    "name": "Lesser Mark of Alpine Attack Speed",
+    "description": "+1.13% attack speed",
+    "id": 8007
+  },
+  {
+    "name": "Lesser Quintessence of Life Steal",
+    "description": "+0.84% Life Steal",
+    "id": 5410
+  },
+  {
+    "name": "Quintessence of Life Steal",
+    "description": "+1.17% Life Steal",
+    "id": 5411
+  },
+  {
+    "name": "Lesser Glyph of the Gracious Gift",
+    "description": "+0.12 ability power per level (+2.16 at champion level 18)",
+    "id": 8005
+  },
+  {
+    "name": "Lesser Quintessence of Attack Damage",
+    "description": "+1.25 attack damage",
+    "id": 5091
+  },
+  {
+    "name": "Lesser Quintessence of Scaling Attack Damage",
+    "description": "+0.14 attack damage per level (+2.52 at champion level 18)",
+    "id": 5092
+  },
+  {
+    "name": "Lesser Quintessence of Attack Speed",
+    "description": "+2.52% attack speed",
+    "id": 5093
+  },
+  {
+    "name": "Lesser Quintessence of Critical Damage",
+    "description": "+2.48% critical damage",
+    "id": 5095
+  },
+  {
+    "name": "Greater Quintessence of Spell Vamp",
+    "description": "+2% Spellvamp.",
+    "id": 5409
+  },
+  {
+    "name": "Mark of Precision",
+    "description": "+0.7 Leth / +0.48 M.Pen",
+    "id": 5401
+  },
+  {
+    "name": "Greater Mark of Precision",
+    "description": "+1.13 Lethality / +0.62 Magic Penetration",
+    "id": 5402
+  },
+  {
+    "name": "Greater Seal of Gold",
+    "description": "+0.25 gold / 10 sec.",
+    "id": 5403
+  },
+  {
+    "name": "Lesser Quintessence of Percent Health",
+    "description": "+0.84% increased health.",
+    "id": 5404
+  },
+  {
+    "name": "Quintessence of Percent Health",
+    "description": "+1.17% increased health.",
+    "id": 5405
+  },
+  {
+    "name": "Greater Quintessence of Percent Health",
+    "description": "+1.5% increased health.",
+    "id": 5406
+  },
+  {
+    "name": "Lesser Quintessence of Spell Vamp",
+    "description": "+1.12% Spellvamp.",
+    "id": 5407
+  },
+  {
+    "name": "Quintessence of Spell Vamp",
+    "description": "+1.56% Spellvamp.",
+    "id": 5408
+  },
+  {
+    "name": "Quintessence of the Headless Horseman",
+    "description": "+2.96 lethality",
+    "id": 8013
+  },
+  {
+    "name": "Quintessence of the Piercing Screech",
+    "description": "+1.85 magic penetration",
+    "id": 8014
+  },
+  {
+    "name": "Lesser Glyph of the Challenger",
+    "description": "+0.66 ability power",
+    "id": 8011
+  },
+  {
+    "name": "Glyph of the Soaring Slalom",
+    "description": "-0.75% cooldowns",
+    "id": 8012
+  },
+  {
+    "name": "Quintessence of the Witches Brew",
+    "description": "+4.56 ability power",
+    "id": 8017
+  },
+  {
+    "name": "Greater Glyph of Scaling Mana",
+    "description": "+1.42 mana per level (+25.56 at champion level 18)",
+    "id": 5300
+  },
+  {
+    "name": "Quintessence of Bountiful Treats",
+    "description": "+24 health",
+    "id": 8015
+  },
+  {
+    "name": "Greater Glyph of Mana Regeneration",
+    "description": "+0.33 mana regen / 5 sec.",
+    "id": 5301
+  },
+  {
+    "name": "Quintessence of the Speedy Specter",
+    "description": "+1.39% movement speed",
+    "id": 8016
+  },
+  {
+    "name": "Greater Quintessence of Life Steal",
+    "description": "+1.5% Life Steal.",
+    "id": 5412
+  },
+  {
+    "name": "Lesser Seal of Percent Health",
+    "description": "+0.28% Health.",
+    "id": 5413
+  },
+  {
+    "name": "Seal of Percent Health",
+    "description": "+0.39% Health.",
+    "id": 5414
+  },
+  {
+    "name": "Mark of the Combatant",
+    "description": "+2% critical damage",
+    "id": 8008
+  },
+  {
+    "name": "Greater Seal of Percent Health",
+    "description": "+0.5% Health.",
+    "id": 5415
+  },
+  {
+    "name": "Lesser Seal of the Medalist",
+    "description": "+3.56 health",
+    "id": 8009
+  },
+  {
+    "name": "Lesser Quintessence of Precision",
+    "description": "+1.24 Lethality / +0.78 Magic Penetration",
+    "id": 5416
+  },
+  {
+    "name": "Quintessence of Precision",
+    "description": "+1.74 Lethality / +1.09 Magic Penetration",
+    "id": 5417
+  },
+  {
+    "name": "Greater Quintessence of Precision",
+    "description": "+2.24 Lethality / +1.4 Magic Penetration",
+    "id": 5418
+  },
+  {
+    "name": "Greater Quintessence of Sugar Rush",
+    "description": "+1.5% movement speed",
+    "id": 8022
+  },
+  {
+    "name": "Greater Seal of Critical Chance",
+    "description": "+0.42% critical chance",
+    "id": 5311
+  },
+  {
+    "name": "Greater Quintessence of the Deadly Wreath",
+    "description": "+3.20 lethality",
+    "id": 8020
+  },
+  {
+    "name": "Greater Quintessence of Frosty Health",
+    "description": "+26 health",
+    "id": 8021
+  },
+  {
+    "name": "Greater Glyph of Scaling Mana Regeneration",
+    "description": "+0.06 mana regen / 5 sec. per level (+1.2 at champion level 18)",
+    "id": 5302
+  },
+  {
+    "name": "Greater Glyph of Magic Penetration",
+    "description": "+0.63 magic penetration",
+    "id": 5303
+  },
+  {
+    "name": "Greater Quintessence of the Piercing Present",
+    "description": "+2.01 magic penetration",
+    "id": 8019
+  },
+  {
+    "name": "Greater Seal of Attack Damage",
+    "description": "+0.43 attack damage",
+    "id": 5305
+  },
+  {
+    "name": "Greater Seal of Scaling Attack Damage",
+    "description": "+0.06 attack damage per level (+1.09 at champion level 18)",
+    "id": 5306
+  },
+  {
+    "name": "Greater Seal of Attack Speed",
+    "description": "+0.76% attack speed",
+    "id": 5307
+  },
+  {
+    "name": "Greater Seal of Critical Damage",
+    "description": "+0.78% critical damage",
+    "id": 5309
+  },
+  {
+    "name": "Greater Quintessence of Studio Rumble",
+    "description": "+1.5% movement speed",
+    "id": 8035
+  },
+  {
+    "name": "Greater Seal of Scaling Magic Resist",
+    "description": "+0.1 magic resist per level (+1.8 at champion level 18)",
+    "id": 5320
+  },
+  {
+    "name": "Seal of Scaling Health Regeneration",
+    "description": "+0.09 health regen / 5 sec. per level (+1.62 at champion level 18)",
+    "id": 5200
+  },
+  {
+    "name": "Greater Seal of Health Regeneration",
+    "description": "+0.56 health regen / 5 sec.",
+    "id": 5321
+  },
+  {
+    "name": "Greater Seal of Scaling Health Regeneration",
+    "description": "+0.11 health regen / 5 sec. per level (+1.98 at champion level 18)",
+    "id": 5322
+  },
+  {
+    "name": "Greater Seal of Health",
+    "description": "+8 health",
+    "id": 5315
+  },
+  {
+    "name": "Greater Seal of Scaling Health",
+    "description": "+1.33 health per level (+24 at champion level 18)",
+    "id": 5316
+  },
+  {
+    "name": "Greater Seal of Armor",
+    "description": "+1 armor",
+    "id": 5317
+  },
+  {
+    "name": "Greater Seal of Scaling Armor",
+    "description": "+0.16 armor per level (+3 at champion level 18)",
+    "id": 5318
+  },
+  {
+    "name": "Greater Seal of Magic Resist",
+    "description": "+0.74 magic resist",
+    "id": 5319
+  },
+  {
+    "name": "Greater Seal of Scaling Mana",
+    "description": "+1.17 mana per level (+21.06 at champion level 18)",
+    "id": 5330
+  },
+  {
+    "name": "Seal of Scaling Mana Regeneration",
+    "description": "+0.05 mana regen / 5 sec. per level (+0.9 at champion level 18)",
+    "id": 5210
+  },
+  {
+    "name": "Greater Seal of Mana Regeneration",
+    "description": "+0.41 mana regen / 5 sec.",
+    "id": 5331
+  },
+  {
+    "name": "Greater Seal of Scaling Mana Regeneration",
+    "description": "+0.065 mana regen / 5 sec. per level (+1.17 at champion level 18)",
+    "id": 5332
+  },
+  {
+    "name": "Quintessence of Attack Damage",
+    "description": "+1.75 attack damage",
+    "id": 5213
+  },
+  {
+    "name": "Seal of Cooldown Reduction",
+    "description": "-0.29% cooldowns",
+    "id": 5203
+  },
+  {
+    "name": "Greater Seal of Cooldown Reduction",
+    "description": "-0.36% cooldowns",
+    "id": 5325
+  },
+  {
+    "name": "Razer Quintessence of Speed",
+    "description": "+1.5% movement speed",
+    "id": 10002
+  },
+  {
+    "name": "Seal of Ability Power",
+    "description": "+0.46 ability power",
+    "id": 5205
+  },
+  {
+    "name": "Razer Mark of Precision",
+    "description": "+2.23% critical damage",
+    "id": 10001
+  },
+  {
+    "name": "Seal of Scaling Ability Power",
+    "description": "+0.08 ability power per level (+1.44 at champion level 18)",
+    "id": 5206
+  },
+  {
+    "name": "Greater Seal of Ability Power",
+    "description": "+0.59 ability power",
+    "id": 5327
+  },
+  {
+    "name": "Seal of Mana",
+    "description": "+5.36 mana",
+    "id": 5207
+  },
+  {
+    "name": "Greater Seal of Scaling Ability Power",
+    "description": "+0.1 ability power per level (+1.8 at champion level 18)",
+    "id": 5328
+  },
+  {
+    "name": "Seal of Scaling Mana",
+    "description": "+0.91 mana per level (+16.38 at champion level 18)",
+    "id": 5208
+  },
+  {
+    "name": "Greater Seal of Mana",
+    "description": "+6.89 mana",
+    "id": 5329
+  },
+  {
+    "name": "Seal of Mana Regeneration",
+    "description": "+0.32 mana regen / 5 sec.",
+    "id": 5209
+  },
+  {
+    "name": "Greater Quintessence of Critical Chance",
+    "description": "+1.86% critical chance",
+    "id": 5341
+  },
+  {
+    "name": "Quintessence of Lethality",
+    "description": "+2.49 lethality",
+    "id": 5221
+  },
+  {
+    "name": "Lesser Quintessence of Health",
+    "description": "+14.5 health",
+    "id": 5101
+  },
+  {
+    "name": "Greater Quintessence of Lethality",
+    "description": "+3.20 lethality",
+    "id": 5343
+  },
+  {
+    "name": "Lesser Quintessence of Scaling Health",
+    "description": "+1.5 health per level (+27 at champion level 18)",
+    "id": 5102
+  },
+  {
+    "name": "Quintessence of Health",
+    "description": "+20 health",
+    "id": 5223
+  },
+  {
+    "name": "Lesser Quintessence of Armor",
+    "description": "+2.37 armor",
+    "id": 5103
+  },
+  {
+    "name": "Quintessence of Scaling Health",
+    "description": "+2.1 health per level (+37.8 at champion level 18)",
+    "id": 5224
+  },
+  {
+    "name": "Greater Quintessence of Health",
+    "description": "+26 health",
+    "id": 5345
+  },
+  {
+    "name": "Quintessence of Scaling Attack Damage",
+    "description": "+0.19 attack damage per level (+3.42 at champion level 18)",
+    "id": 5214
+  },
+  {
+    "name": "Greater Quintessence of Attack Damage",
+    "description": "+2.25 attack damage",
+    "id": 5335
+  },
+  {
+    "name": "Quintessence of Attack Speed",
+    "description": "+3.51% attack speed",
+    "id": 5215
+  },
+  {
+    "name": "Greater Quintessence of Scaling Attack Damage",
+    "description": "+0.25 attack damage per level (+4.5 at champion level 18)",
+    "id": 5336
+  },
+  {
+    "name": "Greater Quintessence of Attack Speed",
+    "description": "+4.5% attack speed",
+    "id": 5337
+  },
+  {
+    "name": "Quintessence of Critical Damage",
+    "description": "+3.47% critical damage",
+    "id": 5217
+  },
+  {
+    "name": "Greater Quintessence of Critical Damage",
+    "description": "+4.46% critical damage",
+    "id": 5339
+  },
+  {
+    "name": "Quintessence of Critical Chance",
+    "description": "+1.44% critical chance",
+    "id": 5219
+  },
+  {
+    "name": "Greater Quintessence of Scaling Magic Resist",
+    "description": "+0.37 magic resist per level (+6.66 at champion level 18)",
+    "id": 5350
+  },
+  {
+    "name": "Quintessence of Scaling Health Regeneration",
+    "description": "+0.22 health regen / 5 sec. per level (+3.96 at champion level 18)",
+    "id": 5230
+  },
+  {
+    "name": "Greater Quintessence of Health Regeneration",
+    "description": "+2.7 health regen / 5 sec.",
+    "id": 5351
+  },
+  {
+    "name": "Greater Quintessence of Scaling Health Regeneration",
+    "description": "+0.28 health regen / 5 sec. per level (+5.04 at champion level 18)",
+    "id": 5352
+  },
+  {
+    "name": "Lesser Quintessence of Cooldown Reduction",
+    "description": "-1.4% cooldowns",
+    "id": 5111
+  },
+  {
+    "name": "Lesser Quintessence of Scaling Cooldown Reduction",
+    "description": "-0.15% cooldowns per level (-2.8% at champion level 18)",
+    "id": 5112
+  },
+  {
+    "name": "Quintessence of Cooldown Reduction",
+    "description": "-1.95% cooldowns",
+    "id": 5233
+  },
+  {
+    "name": "Lesser Quintessence of Ability Power",
+    "description": "+2.75 ability power",
+    "id": 5113
+  },
+  {
+    "name": "Quintessence of Scaling Cooldown Reduction",
+    "description": "-0.21% cooldowns per level (-3.9% at champion level 18)",
+    "id": 5234
+  },
+  {
+    "name": "Greater Quintessence of Cooldown Reduction",
+    "description": "-2.5% cooldowns",
+    "id": 5355
+  },
+  {
+    "name": "Lesser Quintessence of Scaling Ability Power",
+    "description": "+0.24 ability power per level (+4.32 at champion level 18)",
+    "id": 5114
+  },
+  {
+    "name": "Quintessence of Ability Power",
+    "description": "+3.85 ability power",
+    "id": 5235
+  },
+  {
+    "name": "Greater Quintessence of Scaling Cooldown Reduction",
+    "description": "-0.28% cooldowns per level (-5% at champion level 18)",
+    "id": 5356
+  },
+  {
+    "name": "Lesser Quintessence of Scaling Armor",
+    "description": "+0.21 armor per level (+3.78 at champion level 18)",
+    "id": 5104
+  },
+  {
+    "name": "Quintessence of Armor",
+    "description": "+3.32 armor",
+    "id": 5225
+  },
+  {
+    "name": "Greater Quintessence of Scaling Health",
+    "description": "+2.7 health per level (+48.6 at champion level 18)",
+    "id": 5346
+  },
+  {
+    "name": "Lesser Quintessence of Magic Resist",
+    "description": "+2.22 magic resist",
+    "id": 5105
+  },
+  {
+    "name": "Quintessence of Scaling Armor",
+    "description": "+0.29 armor per level (+5.22 at champion level 18)",
+    "id": 5226
+  },
+  {
+    "name": "Greater Quintessence of Armor",
+    "description": "+4.26 armor",
+    "id": 5347
+  },
+  {
+    "name": "Lesser Quintessence of Scaling Magic Resist",
+    "description": "+0.21 magic resist per level (+3.78 at champion level 18)",
+    "id": 5106
+  },
+  {
+    "name": "Quintessence of Magic Resist",
+    "description": "+3.11 magic resist",
+    "id": 5227
+  },
+  {
+    "name": "Greater Quintessence of Scaling Armor",
+    "description": "+0.38 armor per level (+6.84 at champion level 18)",
+    "id": 5348
+  },
+  {
+    "name": "Lesser Quintessence of Health Regeneration",
+    "description": "+1.5 health regen / 5 sec.",
+    "id": 5107
+  },
+  {
+    "name": "Quintessence of Scaling Magic Resist",
+    "description": "+0.29 magic resist per level (+5.22 at champion level 18)",
+    "id": 5228
+  },
+  {
+    "name": "Greater Quintessence of Magic Resist",
+    "description": "+4 magic resist",
+    "id": 5349
+  },
+  {
+    "name": "Lesser Quintessence of Scaling Health Regeneration",
+    "description": "+0.16 health regen / 5 sec. per level (+2.88 at champion level 18)",
+    "id": 5108
+  },
+  {
+    "name": "Quintessence of Health Regeneration",
+    "description": "+2.1 health regen / 5 sec.",
+    "id": 5229
+  },
+  {
+    "name": "Greater Quintessence of Scaling Mana",
+    "description": "+4.17 mana per level (+75.06 at champion level 18)",
+    "id": 5360
+  },
+  {
+    "name": "Quintessence of Scaling Mana Regeneration",
+    "description": "+0.19 mana regen / 5 sec. per level (+3.42 at champion level 18)",
+    "id": 5240
+  },
+  {
+    "name": "Greater Quintessence of Mana Regeneration",
+    "description": "+1.25 mana regen / 5 sec.",
+    "id": 5361
+  },
+  {
+    "name": "Quintessence of Magic Penetration",
+    "description": "+1.56 magic penetration",
+    "id": 5241
+  },
+  {
+    "name": "Greater Quintessence of Scaling Mana Regeneration",
+    "description": "+0.24 mana regen / 5 sec. per level (+4.32 at champion level 18)",
+    "id": 5362
+  },
+  {
+    "name": "Lesser Quintessence of Movement Speed",
+    "description": "+0.83% movement speed",
+    "id": 5121
+  },
+  {
+    "name": "Greater Quintessence of Magic Penetration",
+    "description": "+2.01 magic penetration",
+    "id": 5363
+  },
+  {
+    "name": "Lesser Mark of Attack Damage",
+    "description": "+0.53 attack damage",
+    "id": 5001
+  },
+  {
+    "name": "Quintessence of Movement Speed",
+    "description": "+1.17% movement speed",
+    "id": 5243
+  },
+  {
+    "name": "Lesser Mark of Scaling Attack Damage",
+    "description": "+0.08 attack damage per level (+1.35 at champion level 18)",
+    "id": 5002
+  },
+  {
+    "name": "Mark of Attack Damage",
+    "description": "+0.74 attack damage",
+    "id": 5123
+  },
+  {
+    "name": "Greater Quintessence of Movement Speed",
+    "description": "+1.5% movement speed",
+    "id": 5365
+  },
+  {
+    "name": "Lesser Mark of Attack Speed",
+    "description": "+0.94% attack speed",
+    "id": 5003
+  },
+  {
+    "name": "Mark of Scaling Attack Damage",
+    "description": "+0.1 attack damage per level (+1.89 at champion level 18)",
+    "id": 5124
+  },
+  {
+    "name": "Greater Mark of Attack Damage",
+    "description": "+0.95 attack damage",
+    "id": 5245
+  },
+  {
+    "name": "Greater Quintessence of Revival",
+    "description": "-5% time dead",
+    "id": 5366
+  },
+  {
+    "name": "Mark of Attack Speed",
+    "description": "+1.32% attack speed",
+    "id": 5125
+  },
+  {
+    "name": "Greater Mark of Scaling Attack Damage",
+    "description": "+0.13 attack damage per level (+2.43 at champion level 18)",
+    "id": 5246
+  },
+  {
+    "name": "Greater Quintessence of Gold",
+    "description": "+1 gold / 10 sec.",
+    "id": 5367
+  },
+  {
+    "name": "Lesser Quintessence of Mana",
+    "description": "+20.83 mana",
+    "id": 5115
+  },
+  {
+    "name": "Quintessence of Scaling Ability Power",
+    "description": "+0.34 ability power per level (+6.12 at champion level 18)",
+    "id": 5236
+  },
+  {
+    "name": "Greater Quintessence of Ability Power",
+    "description": "+4.95 ability power",
+    "id": 5357
+  },
+  {
+    "name": "Lesser Quintessence of Scaling Mana",
+    "description": "+2.31 mana per level (+41.58 at champion level 18)",
+    "id": 5116
+  },
+  {
+    "name": "Quintessence of Mana",
+    "description": "+29.17 mana",
+    "id": 5237
+  },
+  {
+    "name": "Greater Quintessence of Scaling Ability Power",
+    "description": "+0.43 ability power per level (+7.74 at champion level 18)",
+    "id": 5358
+  },
+  {
+    "name": "Lesser Quintessence of Mana Regeneration",
+    "description": "+0.69 mana regen / 5 sec.",
+    "id": 5117
+  },
+  {
+    "name": "Quintessence of Scaling Mana",
+    "description": "+3.24 mana per level (+58.32 at champion level 18)",
+    "id": 5238
+  },
+  {
+    "name": "Greater Quintessence of Mana",
+    "description": "+37.5 mana",
+    "id": 5359
+  },
+  {
+    "name": "Lesser Quintessence of Scaling Mana Regeneration",
+    "description": "+0.14 mana regen / 5 sec. per level (+2.52 at champion level 18)",
+    "id": 5118
+  },
+  {
+    "name": "Quintessence of Mana Regeneration",
+    "description": "+0.97 mana regen / 5 sec.",
+    "id": 5239
+  },
+  {
+    "name": "Lesser Quintessence of Magic Penetration",
+    "description": "+1.11 magic penetration",
+    "id": 5119
+  },
+  {
+    "name": "Greater Glyph of Energy",
+    "description": "+2.2 Energy",
+    "id": 5371
+  },
+  {
+    "name": "Greater Mark of Critical Chance",
+    "description": "+0.93% critical chance",
+    "id": 5251
+  },
+  {
+    "name": "Greater Glyph of Scaling Energy",
+    "description": "+0.161 Energy/level (+2.89 at level 18)",
+    "id": 5372
+  },
+  {
+    "name": "Mark of Lethality",
+    "description": "+1.25 lethality",
+    "id": 5131
+  },
+  {
+    "name": "Greater Quintessence of Energy Regeneration",
+    "description": "+1.575 Energy regen/5 sec",
+    "id": 5373
+  },
+  {
+    "name": "Lesser Mark of Health",
+    "description": "+1.93 health",
+    "id": 5011
+  },
+  {
+    "name": "Greater Mark of Lethality",
+    "description": "+1.60 lethality",
+    "id": 5253
+  },
+  {
+    "name": "Greater Quintessence of Energy",
+    "description": "+5.4 Energy",
+    "id": 5374
+  },
+  {
+    "name": "Lesser Mark of Scaling Health",
+    "description": "+0.3 health per level (+5.4 at champion level 18)",
+    "id": 5012
+  },
+  {
+    "name": "Mark of Health",
+    "description": "+2.7 health",
+    "id": 5133
+  },
+  {
+    "name": "Lesser Mark of Armor",
+    "description": "+0.51 armor",
+    "id": 5013
+  },
+  {
+    "name": "Mark of Scaling Health",
+    "description": "+0.42 health per level (+7.56 at champion level 18)",
+    "id": 5134
+  },
+  {
+    "name": "Greater Mark of Health",
+    "description": "+3.47 health",
+    "id": 5255
+  },
+  {
+    "name": "Mark of Armor",
+    "description": "+0.71 armor",
+    "id": 5135
+  },
+  {
+    "name": "Greater Mark of Scaling Health",
+    "description": "+0.54 health per level (+9.72 at champion level 18)",
+    "id": 5256
+  },
+  {
+    "name": "Lesser Mark of Magic Resist",
+    "description": "+0.43 magic resist",
+    "id": 5015
+  },
+  {
+    "name": "Greater Mark of Armor",
+    "description": "+0.91 armor",
+    "id": 5257
+  },
+  {
+    "name": "Greater Seal of Scaling Energy Regeneration",
+    "description": "+0.064 Energy regen/5 sec per level (+1.15 at champion level 18)",
+    "id": 5370
+  },
+  {
+    "name": "Lesser Mark of Critical Damage",
+    "description": "+1.24% critical damage",
+    "id": 5005
+  },
+  {
+    "name": "Greater Mark of Attack Speed",
+    "description": "+1.7% attack speed",
+    "id": 5247
+  },
+  {
+    "name": "Greater Quintessence of Experience",
+    "description": "+2% experience gained",
+    "id": 5368
+  },
+  {
+    "name": "Mark of Critical Damage",
+    "description": "+1.74% critical damage",
+    "id": 5127
+  },
+  {
+    "name": "Greater Seal of Energy Regeneration",
+    "description": "+0.63 Energy regen/5 sec",
+    "id": 5369
+  },
+  {
+    "name": "Lesser Mark of Critical Chance",
+    "description": "+0.52% critical chance",
+    "id": 5007
+  },
+  {
+    "name": "Greater Mark of Critical Damage",
+    "description": "+2.23% critical damage",
+    "id": 5249
+  },
+  {
+    "name": "Mark of Critical Chance",
+    "description": "+0.72% critical chance",
+    "id": 5129
+  },
+  {
+    "name": "Lesser Mark of Lethality",
+    "description": "+0.90 lethality",
+    "id": 5009
+  }
+]
